@@ -2,7 +2,7 @@
 Jupyter notebook is a web-based notebook environment for interactive computing.
 _____________________________________________
 ## Requirements
-- Jupyter Notebook
+- Jupyter Notebook OR Jupyter Lab
 - Folium
 - Plotly
 - Cufflinks
