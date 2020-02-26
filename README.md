@@ -1,5 +1,8 @@
 # Data Analysis of NYPD Arrests for 2019
 Jupyter notebook is a web-based notebook environment for interactive computing.
+
+> Openening - Data_Analysis_NYPD_2019_Arrests.ipynb - will render it as 
+a static HTML file.
 _____________________________________________
 ## Requirements
 - Jupyter Notebook OR Jupyter Lab
